@@ -1,0 +1,17 @@
+type;name;quality;basePrice;dueDate
+general;Brot;0;1.15;2024-12-02
+general;Brot;0;1.15;2024-12-05
+general;Abgelaufenes Brot;0;1.15;2024-11-30
+general;Salami;0;1.70;2025-01-03
+general;Salami;2;1.70;2025-07-30
+cheese;Emmentaler (Unreif);35;2.20;2025-09-22
+cheese;Gouda (Überreif);100;2.20;2025-01-01
+cheese;Emmentaler;35;2.20;2025-02-01
+cheese;Gouda;100;2.20;2025-09-22
+cheese;Brie (Schlechte Qualität);20;2.50;2025-01-20
+cheese;Brie;100;2.50;2025-01-20
+wine;Weisswein;0;5.00;2025-08-01
+wine;Weisswein Mieß;-10;5.00;2025-08-01
+wine;Rotwein;10;5.00;2025-08-01
+newyear;Feuerwerk;18;20.00;2025-01-15
+newyear;Böller;10;15.00;2026-01-15

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperDuperMarktSilvester:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperDuperMarktSilvester_jar</output-path>
+    <root id="archive" name="SuperDuperMarktSilvester.jar">
+      <element id="module-output" name="SuperDuperMarktSilvester" />
+    </root>
+  </artifact>
+</component>

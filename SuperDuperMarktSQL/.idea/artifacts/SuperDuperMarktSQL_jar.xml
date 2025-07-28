@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperDuperMarktSQL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperDuperMarktSQL_jar</output-path>
+    <root id="archive" name="SuperDuperMarktSQL.jar">
+      <element id="module-output" name="SuperDuperMarktSQL" />
+    </root>
+  </artifact>
+</component>

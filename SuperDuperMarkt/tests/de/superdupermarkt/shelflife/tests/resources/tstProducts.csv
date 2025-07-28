@@ -1,0 +1,16 @@
+type;name;quality;basePrice;dueDate
+general;Brot;0;1.15;2024-12-05
+general;Brot;0;1.15;2024-12-09
+
+general;Salami;0;1.70;2024-12-30
+noType;Error;0;1;2024-12-01
+general;Salami;2;1.70;2024-12-30
+cheese;Emmentaler;35;2.20;2024-12-22
+cheese;Gouda;100;2.20;2024-12-22
+general;QualityError;x;2;2024-01-01
+cheese;Brie;20;2.50;2025-01-10
+cheese;PriceError;0;x;2024-01-01
+wine;Weisswein;0;5.00;2024-12-15
+wine;Rotwein;10;5.00;2025-01-01
+wine;DateError;10;10;20250101
+wine;DateError2;10;10;a

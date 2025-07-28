@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SuperDuperMarkt/SuperDuperMarkt.iml" filepath="$PROJECT_DIR$/../SuperDuperMarkt/SuperDuperMarkt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperDuperMarktSilvester.iml" filepath="$PROJECT_DIR$/SuperDuperMarktSilvester.iml" />
+    </modules>
+  </component>
+</project>

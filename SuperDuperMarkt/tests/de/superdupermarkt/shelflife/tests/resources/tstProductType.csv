@@ -1,0 +1,8 @@
+name;ruleClass
+general;GeneralProduct
+error;X
+cheese;Cheese
+error2;Product
+
+wine;Wine
+error3;InvalidProductType
